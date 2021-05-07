@@ -1,0 +1,2 @@
+ghc-options:
+  "$everything": -haddock -O0 -Wall
